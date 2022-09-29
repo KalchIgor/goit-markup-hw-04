@@ -460,8 +460,8 @@ header {
     padding-right: 24px;
     padding-bottom: 20px;
    border-bottom: 1px solid #EEEEEE;
-  /* border-left: 1px solid #EEEEEE;
-   border-right:1px solid #EEEEEE ;*/
+  border-left: 1px solid #EEEEEE;
+   border-right:1px solid #EEEEEE ;
 }
 .picture {
     padding-bottom: 20px;
@@ -473,4 +473,10 @@ header {
 }
 .picture-img {
     display: block;
+}
+.section__pictuary {
+    border-radius: 4px;
+    background: var(--main-so-color);
+    width: 270px;
+    height: 120px;
 }
