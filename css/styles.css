@@ -177,6 +177,7 @@ ul { padding-inline-start: 0px; }
     font-size: 16px;
     line-height: 1.17;
     color:  var(--main-to-color);
+    margin-bottom: 16pt;
 }
 .title {
     font-weight: 700;
@@ -510,4 +511,28 @@ header {
     padding-right: 10px;
     fill:#188CE8;
     color: currentColor;
+}
+.link__sots {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background-color: currentColor;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:  #AFB1B8;
+}
+.ikon_so {
+    fill: #F5F4FA;
+}
+.link__sots:hover, .link__sots:focus {
+    color: 
+   var(--main-sir-color);
+    background-color: var(--main-one-color);
+}
+.sotsial__link {
+    display: flex;
+    gap: 10px;
+    justify-content:  center ;
+
 }
