@@ -549,3 +549,10 @@ header {
 .link__foot {
     display: flex;}
 
+.box__li {
+    width: 170px;
+    height: 92px;
+    border: 1px ;
+    border-color: #AFB1B8 ;
+}
+
