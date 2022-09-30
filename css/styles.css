@@ -413,8 +413,10 @@ a.logo.active.logo-activ{
     margin: 0px;
 }
 .section-texno {
-       padding-bottom: 47px;
-       padding-top: 94px;  
+     /*  padding-bottom: 47px;
+       padding-top: 94px;  */
+       margin-bottom: 47px;
+       margin-top: 94px;
 
 }
 .section-work {
@@ -539,11 +541,12 @@ header {
     justify-content:  center ;
 
 }
+/*
 .li-tehnology {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .link__foot {
     display: flex;}
