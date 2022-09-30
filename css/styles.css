@@ -500,6 +500,9 @@ header {
    size: 36px;
   height: 1.37;
   color: var(--main-se-color) ;
+  /*display: inline-block;
+  margin-left: auto;
+  margin-right: auto;*/
 }
 .navigation-bb::before,  .navigation-ii::before {
     content:url( "../images/img1/tel.svg");
@@ -541,3 +544,7 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+.link__foot {
+    display: flex;}
+
