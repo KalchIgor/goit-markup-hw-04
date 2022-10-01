@@ -571,4 +571,7 @@ header {
     justify-content: center;
     align-items: center; 
 }
-
+.box__content {
+    justify-content: center;
+    align-items: center; 
+}
