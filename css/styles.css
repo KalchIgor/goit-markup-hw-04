@@ -566,19 +566,20 @@ header {
     
 
 .link__li__foot {
-   /* align-items: center;
-  justify-content: center;*/
+ align-items: center;
+  justify-content: center;
     width: 170px;
     height: 92px;
     background-color: #757575;
    
 }
+/*
 .box__content {
  display: block;
     border: 1px;
     border-color: 
     #AFB1B8 ;
-}
+} */
 .text__footer {
     width: 700;
     size: 14 px;
