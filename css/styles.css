@@ -565,15 +565,12 @@ header {
 .link__li__foot {
     width: 170px;
     height: 92px;
-    border: 1px ;
     background-color: #757575;
-    justify-content: center;
-    align-items: center; 
+   
 }
 .box__content {
     display: flex;
-    justify-content: center;
-    align-items: center; 
+    margin: auto;
     border: 1px;
     border-color: 
     #AFB1B8 ;
