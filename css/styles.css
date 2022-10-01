@@ -553,7 +553,14 @@ header {
 
 
 .link__foot {
-    display: flex;}
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    column-gap: 30px;
+    margin-bottom: 94px;
+}
+   
+    
 
 .link__li__foot {
     width: 170px;
