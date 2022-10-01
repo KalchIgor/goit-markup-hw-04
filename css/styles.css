@@ -555,10 +555,13 @@ header {
 .link__foot {
     display: flex;}
 
-.box__li {
+.link__li__foot {
     width: 170px;
     height: 92px;
     border: 1px ;
     border-color: #AFB1B8 ;
+    background-color: #757575;
+    justify-content: center;
+    align-items: center; 
 }
 
