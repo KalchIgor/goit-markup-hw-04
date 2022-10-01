@@ -157,6 +157,8 @@ ul { padding-inline-start: 0px; }
    flex-wrap: wrap;
     text-align:left; 
     column-gap: 30px;
+    align-items: center;
+    justify-content: center;
 
 }
 
