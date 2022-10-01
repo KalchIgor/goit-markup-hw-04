@@ -545,6 +545,7 @@ header {
     display: flex;
     gap: 10px;
     justify-content:  center ;
+   
 
 }
 .icon__antenna {
@@ -574,9 +575,30 @@ header {
 }
 .box__content {
  display: block;
-   /* align-items: center;
-  justify-content: center;*/
     border: 1px;
     border-color: 
     #AFB1B8 ;
+}
+.text__footer {
+    width: 700;
+    size: 14 px;
+    height: 1.17;
+    color: var(--main-sir-color);
+    margin-bottom: 20px;
+}
+.sotsial__footer {
+    justify-content: start;
+  
+}
+.logo__footer {
+    display: flex;
+    gap: 156px;
+    align-items: baseline;
+}
+.addres__footer {
+margin-top: -44px;
+}
+.footer__icon {
+    fill:var(--main-sir-color);
+    background-color: rgba(255, 255, 255, 0.1);
 }
