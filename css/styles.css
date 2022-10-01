@@ -558,19 +558,24 @@ header {
     text-align: left;
     column-gap: 30px;
     margin-bottom: 94px;
+    align-items: center;
+    justify-content: center;
 }
    
     
 
 .link__li__foot {
+   /* align-items: center;
+  justify-content: center;*/
     width: 170px;
     height: 92px;
     background-color: #757575;
    
 }
 .box__content {
-    display: flex;
-    margin: auto;
+ display: block;
+   /* align-items: center;
+  justify-content: center;*/
     border: 1px;
     border-color: 
     #AFB1B8 ;
