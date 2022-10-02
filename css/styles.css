@@ -491,10 +491,10 @@ header {
     align-items: center;
     display: flex;
 }
-.li__client {
+.link__li__foot {
     justify-content: center;
     align-items: center;
-  /*  display: flex;*/
+   display: flex;
 }
 .wrup__ul {
     padding-top: 94px;
