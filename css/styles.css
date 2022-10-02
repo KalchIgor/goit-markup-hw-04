@@ -606,13 +606,13 @@ margin-top: -44px;
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.use_icon {
+.logo6 {
     position: absolute;
     bottom: 50%;
     right: 50%;
   /* display: flex;*/
     transform: translate(-50%, -50%);
 }
-.logo6{
+.link__li__foot{
     position: relative;
 }
