@@ -492,9 +492,8 @@ header {
     display: flex;
 }
 .li__client{
-    justify-content: center;
-    align-items: center;
-  /* display: flex;*/
+   
+   display: flex;
 }
 .link__li__foot {
     justify-content: center;
