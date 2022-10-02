@@ -92,10 +92,6 @@ ul { padding-inline-start: 0px; }
    background-size: cover;
    outline: 1px solid black;
 
-
-
- 
-  
 }
 .bot-button {
    border: 0px;
@@ -111,8 +107,6 @@ ul { padding-inline-start: 0px; }
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     cursor: pointer;
 
-  
- 
 }
 
 .logo { 
@@ -143,7 +137,6 @@ ul { padding-inline-start: 0px; }
    
 }
 .li-tehnology{
-   /* margin-right: 30px;*/
     width: 270px;
   /* flex-basis: calc((100% - 30px*3)/4);*/
 }
@@ -153,21 +146,17 @@ ul { padding-inline-start: 0px; }
 }
 .tehnology  {
     display: flex; 
- 
    flex-wrap: wrap;
     text-align:left; 
     column-gap: 30px;
-   /* align-items: center;
-    justify-content: center;*/
-
+   
 }
 
 .foto {
     display: flex; 
    justify-content: space-between ; 
    margin-top: 50px;
-   
-   
+  
 }
 .subtitle, .btn {
     font-weight: 500;
@@ -238,8 +227,6 @@ ul { padding-inline-start: 0px; }
     display: flex;
     justify-content:space-around;
     margin: 0px;
-   
- 
 }
 
 .items  {
@@ -268,8 +255,7 @@ ul { padding-inline-start: 0px; }
         font-size: 16px;
         line-height: 1.88;
         color: var(--main-to-color);
-    
-        
+           
 }
 .aside {
         font-weight: 700;
@@ -277,9 +263,7 @@ ul { padding-inline-start: 0px; }
         line-height: 2;
         color: var(--main-se-color);
         margin-bottom: 4px;
-
 }
-
 .subtitle, .profession { text-align: center;
 }
 
@@ -313,8 +297,6 @@ ul { padding-inline-start: 0px; }
     margin-right: auto;
     row-gap: 30px ;
 
- 
-   
     }
 
 .items, .list {
@@ -367,19 +349,15 @@ ul { padding-inline-start: 0px; }
 }
 .navigation-bi ,.navigation-b { 
     display: inline-block;
-
-   
-  
+ 
 }
 .navigation-ci, .navigation-c { 
     display: inline-block;
-
 
 }
 .navigation-di, .navigation-aa { 
     display: inline-block;
    
-
 }
 .navigation-ii, .navigation-bb { 
     display: inline-block;
@@ -417,8 +395,6 @@ a.logo.active.logo-activ{
     margin: 0px;
 }
 .section-texno {
-     /*  padding-bottom: 47px;
-       padding-top: 94px;  */
        margin-bottom: 47px;
        margin-top: 94px;
 
@@ -433,13 +409,11 @@ a.logo.active.logo-activ{
     border-radius: 0px 0px 4px 4px;
     padding-bottom: 30px;
     background-color: var(--main-sir-color);
-  
 }
 
 header {
    border: 1px solid #ECECEC;
-    
-  
+     
 }
 .adress-li-a  {
     margin-bottom: 9px;
@@ -563,7 +537,6 @@ header {
     display: flex;
     gap: 10px;
     justify-content:  center ;
-   
 
 }
 .icon__antenna {
