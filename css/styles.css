@@ -498,7 +498,7 @@ header {
 }
 .li__client{
     display: flex;
-    margin: 0 auto;
+  
 }
 
 .link__li__foot {
@@ -538,7 +538,7 @@ header {
 .navigation-aa::before,  .navigation-di::before {
     content:url( "../images/img1/mail.svg");
     padding-right: 10px;
-    fill:#188CE8;
+    /*fill:#188CE8;*/
     color: currentColor;
 }
 .link__sots {
