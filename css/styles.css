@@ -496,6 +496,9 @@ header {
     align-items: center;
    display: flex;
 }
+.li__client{
+    display: flex;
+}
 
 .link__li__foot {
     justify-content: center;
