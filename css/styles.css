@@ -610,9 +610,9 @@ margin-top: -44px;
     position: absolute;
     bottom: 50%;
     right: 50%;
-   /* display: flex; */
+   display: flex;
     transform: translate(-50%, -50%);
 }
-.link__li__foot{
+.logo6{
     position: relative;
 }
