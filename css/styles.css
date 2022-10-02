@@ -491,7 +491,11 @@ header {
     align-items: center;
    display: flex;*/
 }
-
+.div__svg {
+    justify-content: center;
+    align-items: center;
+   display: flex;
+}
 
 .link__li__foot {
     justify-content: center;
@@ -583,13 +587,7 @@ header {
     background-color: #757575;
    
 }
-/*
-.box__content {
- display: block;
-    border: 1px;
-    border-color: 
-    #AFB1B8 ;
-} */
+
 .text__footer {
     width: 700;
     size: 14 px;
