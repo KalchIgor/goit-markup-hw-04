@@ -608,7 +608,9 @@ margin-top: -44px;
 
 .use_icon {
     position: absolute;
-    bottom: 50%;
+    right: 0px;
+    bottom: 0px;
+   /* bottom: 50%;
     right: 50%;
   /*display: flex;*/
     transform: translate(-50%, -50%);
