@@ -605,16 +605,7 @@ margin-top: -44px;
     fill:var(--main-sir-color);
     background-color: rgba(255, 255, 255, 0.1);
 }
-/*
-.logo6  
-{
-    position: absolute;
- 
-    bottom: 50%;
-    right: 50%;
-  display: flex;
-    transform: translate(-50%, -50%);
+.picture-img:hover {
+    box-shadow: 2px 2px 
+    #EEEEEE;
 }
-.link__logo6{
-    position: relative;
-}  */
