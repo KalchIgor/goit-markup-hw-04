@@ -498,6 +498,7 @@ header {
 }
 .li__client{
     display: flex;
+    margin: 0 auto;
 }
 
 .link__li__foot {
