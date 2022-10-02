@@ -609,4 +609,5 @@ margin-top: -44px;
     position: absolute;
     bottom: 50%;
     right: 50%;
+    display: flex;
 }
