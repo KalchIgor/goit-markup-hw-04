@@ -523,10 +523,10 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:  #AFB1B8;
+    color:  var(--main-so-color);
 }
 .ikon_so {
-    fill: #F5F4FA;
+    fill: #AFB1B8;
 }
 .link__sots:hover, .link__sots:focus {
     color: 
@@ -561,7 +561,8 @@ header {
   justify-content: center;
     width: 170px;
     height: 92px;
-    background-color: #757575;
+    border: 1px solid #AFB1B8;
+    border-radius: 4px;
    
 }
 
@@ -591,4 +592,20 @@ margin-top: -44px;
 .picture-img:hover {
     box-shadow: 2px 2px 
     #EEEEEE;
+}
+.footer__icon {
+    fill: var(--main-sir-color);
+     
+}
+.link__sots_foot{
+    background-color: rgba(255, 255, 255, 0.1); 
+}
+.div__svg {
+    position:static ;
+    top: 50%;
+    right: 50%;
+   /* transform: translate(-50%);*/
+}
+.link__li__foot {
+    position: relative;
 }
